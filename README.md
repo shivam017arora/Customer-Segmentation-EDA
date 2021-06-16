@@ -19,6 +19,5 @@ Problems that were solved:
 
 ##### Conclusion:
 <br>
-
 <img width="449" alt="Screen Shot 2021-06-17 at 12 02 51 AM" src="https://user-images.githubusercontent.com/26146104/122273734-661b9c80-ceff-11eb-8353-7f47018f3979.png">
 
