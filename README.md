@@ -1,5 +1,17 @@
-# Customer_Segmentation
+# Customer Segmentation using RFM
 
-This dataset is downloaded from kaggle (https://www.kaggle.com/carrie1/ecommerce-data)
+Dataset: https://www.kaggle.com/carrie1/ecommerce-data
 
-# This notebook contains EDA answering some important questions used in real scenarios which continues with calculating a total score of each customer using RFM Model
+Problems that were solved:
+1. What was the best month for sales? How much was the total price?
+2. Which country sold the most products?
+3. What time should we display advertisements to maximize likelihood of customer's buying product?
+4. What products are most often sold together?
+5. What product sold the most? Why do you think it sold the most?
+6. What kind of purchases are most often occured?
+7. Which customer is gold, platinum or silver customer?
+8. What is the score of each customer? 
+
+Conclusion:
+<img width="449" alt="Screen Shot 2021-06-17 at 12 02 51 AM" src="https://user-images.githubusercontent.com/26146104/122273734-661b9c80-ceff-11eb-8353-7f47018f3979.png">
+
